@@ -1,0 +1,11 @@
+{
+  "name": "karma-demo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "jasmine-core": "^2.6.0",
+    "karma": "^1.6.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "standard": "^10.0.2"
+  }
+}
