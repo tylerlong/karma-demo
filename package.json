@@ -1,6 +1,9 @@
 {
   "name": "karma-demo",
   "version": "0.1.0",
+  "scripts": {
+    "test": "karma start"
+  },
   "devDependencies": {
     "jasmine-core": "^2.6.0",
     "karma": "^1.6.0",
